@@ -54,7 +54,7 @@ The dashboard transforms raw sales data into meaningful visualizations to suppor
 ---
 
 ## 👨‍💻 Author
-Dhairya T  
+Dhairya Tiwari
 B.Tech CSE Student | Aspiring Data Analyst
 
 ---
